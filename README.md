@@ -62,6 +62,9 @@ A powerful e-commerce platform designed for seamless online shopping. Master Mar
 A personal memory-keeping app where users can save, categorize, and share their memories. Whether it's a public, private, or draft memory, MemoryNote allows users to create and manage notes with additional features like search. Built using **Flask**, **JavaScript**, and **Mysql**, it provides a rich user experience with data persistence and a sleek interface.
 **[article](https://medium.com/@AbdallahM19/memory-note-capturing-and-preserving-lifes-special-moments-208664902d19)**
 
+### 3. **[simple_shell](https://github.com/Gehadazzam/simple_shell)**
+This shell program contains various functions for different tasks.
+
 ---
 
 <div align="center" style="border: 2px solid #ffffff; border-radius: 10px; padding: 20px; background-color: #181818; width: 80%;">
