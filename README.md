@@ -44,7 +44,7 @@ I'm particularly good at:
   </div>
   <h3 style="color: #ffffff;">GitHub Streak</h3>
   <div style="margin: 10px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdallahM19&theme=dark" alt="Streak Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdallahM19&theme=github-dark-blue" alt="Streak Stats" />
   </div>
 </div>
 
