@@ -40,7 +40,7 @@ I'm particularly good at:
 <div align="center" style="border: 2px solid #ffffff; border-radius: 10px; padding: 20px; background-color: #181818; width: 80%;">
   <h3 style="color: #ffffff;">Most Used Languages</h3>
   <div style="margin: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdallahM19&layout=compact&theme=dark" alt="Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdallahM19&layout=compact&theme=github_dark" alt="Languages" />
   </div>
   <h3 style="color: #ffffff;">GitHub Streak</h3>
   <div style="margin: 10px;">
@@ -68,7 +68,7 @@ This shell program contains various functions for different tasks.
 ---
 
 <div align="center" style="border: 2px solid #ffffff; border-radius: 10px; padding: 20px; background-color: #181818; width: 80%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdallahM19&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdallahM19&show_icons=true&theme=github_dark" alt="GitHub Stats" />
 </div>
 
 ---
