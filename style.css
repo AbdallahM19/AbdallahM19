@@ -2,68 +2,118 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: Arial, sans-serif;
 }
 
 body {
-  font-family: Arial, sans-serif;
-  background-color: #181818;
-  color: #ffffff;
+  background-color: #1e1e2f;
+  color: #f0f0f5;
   display: flex;
   justify-content: center;
-  padding: 20px;
+  align-items: center;
+  min-height: 100vh;
 }
 
 .profile-container {
-  width: 100%;
-  max-width: 800px;
+  width: 90%;
+  max-width: 900px;
+  background-color: #2a2a3a;
+  padding: 30px;
+  border-radius: 15px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.6);
   text-align: center;
-  background-color: #222222;
-  padding: 20px;
-  border-radius: 10px;
-  border: 2px solid #ffffff;
 }
 
-.avatar img {
-  width: 150px;
+.profile-avatar {
+  width: 120px;
+  height: 120px;
   border-radius: 50%;
-  margin-bottom: 20px;
+  margin-bottom: 15px;
+  border: 3px solid #f0f0f5;
 }
 
-h1, h2 {
-  color: #ffd700;
+.profile h1 {
+  font-size: 2em;
+  margin-bottom: 5px;
 }
 
-hr {
-  border: 1px solid #444444;
-  margin: 20px 0;
+.tagline {
+  font-size: 1.2em;
+  color: #b3b3cc;
 }
 
-.skills .icons img {
-  width: 40px;
-  margin: 10px;
+.skills, .projects, .contact {
+  margin-top: 25px;
+  padding-top: 20px;
+  border-top: 1px solid #3a3a4a;
 }
 
-.dashboard img {
+.skills h2, .projects h2, .contact h2 {
+  font-size: 1.6em;
+  margin-bottom: 10px;
+  color: #7f8cdd;
+}
+
+.skills-icons img {
+  width: 50px;
+  height: 50px;
+  margin: 8px;
+  transition: transform 0.2s ease;
+}
+
+.skills-icons img:hover {
+  transform: scale(1.2);
+}
+
+.project {
   margin: 10px 0;
-  width: 100%;
-  max-width: 400px;
-  border-radius: 10px;
 }
 
-.projects a, .social-links a {
-  color: #1e90ff;
+.project h3 a {
+  color: #c7d4ff;
   text-decoration: none;
 }
 
-.social-links a {
-  display: inline-block;
-  padding: 8px 16px;
-  border-radius: 5px;
-  background-color: #333333;
-  margin: 5px;
-  transition: background-color 0.3s;
+.project h3 a:hover {
+  color: #7f8cdd;
 }
 
-.social-links a:hover {
-  background-color: #444444;
+.contact-links {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 15px;
+}
+
+.btn {
+  text-decoration: none;
+  padding: 10px 20px;
+  color: #fff;
+  border-radius: 5px;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+.linkedin {
+  background-color: #0077b5;
+}
+
+.linkedin:hover {
+  background-color: #005682;
+}
+
+.twitter {
+  background-color: #1da1f2;
+}
+
+.twitter:hover {
+  background-color: #007bbf;
+}
+
+.email {
+  background-color: #d14836;
+}
+
+.email:hover {
+  background-color: #a32e22;
 }
