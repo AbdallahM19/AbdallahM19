@@ -2,7 +2,7 @@
   <img src="https://avatars.githubusercontent.com/u/140225887?v=4" alt="Abdallah Mohammed's Avatar"/>
 </div>
 
-# Hi, I'm **Abdallah Mohammed**! 👋
+# Hi, I'm [**Abdallah Mohammed**](https://abdallahm19.github.io/AbdallahM19/AbdallahM19.html)! 👋
 
 Welcome to my GitHub profile! I'm a **Software Engineer** passionate about coding, learning, and building projects that solve real-world problems. Here's a little more about me:
 
