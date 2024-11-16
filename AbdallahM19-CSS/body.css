@@ -5,10 +5,9 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
-  overflow: hidden;
+  flex-direction: column;
   background: linear-gradient(45deg, #1e3c72, #2a5298, #ff5f6d, #ffc371, #00c9ff, #92fe9d, #00c9ff, #ffc371, #ff5f6d, #2a5298, #1e3c72);
-  background-size: 600% 600%;
+  background-size: 200% 200%;
   animation: gradient-animation 20s ease infinite;
 }
 
