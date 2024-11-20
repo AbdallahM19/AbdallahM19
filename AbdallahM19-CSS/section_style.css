@@ -3,13 +3,21 @@
 /* education */
 
 /* my-project */
-.my-project 
+/* .my-project  */
 
 /* about */
+.about p {
+    font-size: 18px;
+    font-family: Arial, sans-serif;
+}
+
 .about .contact-links {
     display: flex;
     align-items: center;
     flex-direction: column;
+    border-top: 2px solid rgb(0, 0, 0);
+    margin-top: 10px;
+    padding-top: 10px;
 }
 
 .about .contact-links a {
