@@ -6,12 +6,12 @@
 /* .my-project  */
 
 /* about */
-.about p {
+.home p {
     font-size: 18px;
     font-family: Arial, sans-serif;
 }
 
-.about .contact-links {
+.home .contact-links {
     display: flex;
     align-items: center;
     flex-direction: column;
@@ -20,7 +20,7 @@
     padding-top: 10px;
 }
 
-.about .contact-links a {
+.home .contact-links a {
     font-size: 1rem;
     font-weight: 580;
     color: rgb(255, 255, 255);
